@@ -7,6 +7,5 @@ giant real life statues to honour him ...
 sitemap:
     priority: 1.0
     lastmod: 2020-06-25
-    changefreq: weekly
+    changefreq: daily
 ---
-Sri Chinmoy Controversies Blog
